@@ -3,4 +3,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkfoxes&show_icons=true&locale=en" alt="gkfoxes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkfoxes&show_icons=true&locale=en" alt="gkfoxes" /></p>

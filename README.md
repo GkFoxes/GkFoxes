@@ -1,5 +1,5 @@
 <h1 align="center">Hi🌈, I'm Dmitriy Matveenko</h1>
-<h3 align="center">iOS Software Engineer from Russia, work in Sber</h3>
+<h3 align="center">iOS Software Engineer from Earth, work in SberMarket</h3>
 
 
 
